@@ -1,0 +1,2 @@
+# R5T.T0117
+IFileGenerator, IFileOperator, and other file-related extension method bases.
