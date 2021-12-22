@@ -1,0 +1,3 @@
+R5T.T0117.Construction - Construction project for IFileGenerator, IFileOperator, and other file-related extension method bases..
+
+GOALS:
